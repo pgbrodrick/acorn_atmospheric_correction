@@ -30,11 +30,14 @@ Custom Reflectance: https://code.earthengine.google.com/?asset=users/pgbrodrick/
 OBS data: https://code.earthengine.google.com/?asset=users/pgbrodrick/SFA/collections/obs_priority <br>
 Water vapor estimates: https://code.earthengine.google.com/?asset=users/pgbrodrick/SFA/collections/wtrv_priority <br>
 Canopy water content: https://code.earthengine.google.com/?asset=users/pgbrodrick/SFA/collections/wtrl_priority <br>
-<br> 
+<br>
+and are included as part of the data package: 
+> Brodrick P ; Goulden T ; Chadwick K D (2020): Custom NEON AOP reflectance mosaics and maps of shade masks, canopy water content. Watershed Function SFA. DOI: 10.15485/1618131
+<br>
 <br>
 
 
-## All relevant repositories to this project:
+## All repositories relevant to this project:
 
 ### Atmospheric correction wrapper: 
 https://github.com/pgbrodrick/acorn_atmospheric_correction
