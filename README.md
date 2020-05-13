@@ -21,6 +21,15 @@ A full description of the effort can be found at:
 
 and use of this code should cite that manuscript.
 
+### Data generated from this process are available on GEE: 
+Custom Reflectance: https://code.earthengine.google.com/?asset=users/pgbrodrick/SFA/collections/ciacorn_priority <br> 
+OBS data: https://code.earthengine.google.com/?asset=users/pgbrodrick/SFA/collections/obs_priority <br>
+Water vapor estimates: https://code.earthengine.google.com/?asset=users/pgbrodrick/SFA/collections/wtrv_priority <br>
+Canopy water content: https://code.earthengine.google.com/?asset=users/pgbrodrick/SFA/collections/wtrl_priority <br>
+<br> 
+<br>
+
+
 ## All relevant repositories to this project:
 
 ### Atmospheric correction wrapper: 
