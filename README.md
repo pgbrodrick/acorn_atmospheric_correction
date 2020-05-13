@@ -10,9 +10,9 @@ This code was created as part of an effort to generate foliar trait maps through
 
 Main files:
 
-run_all_lines.py - perform atmospheric correction on all lines, batching slurm-style submission
-single_line_acorn.csh - run atmospheric correction on a single binary cube.  Works as bash or slurm script.
-run_all_manifest.py - prepare outputs for upload to Google Earth Engine
+run_all_lines.py - perform atmospheric correction on all lines, batching slurm-style submission<br>
+single_line_acorn.csh - run atmospheric correction on a single binary cube.  Works as bash or slurm script <br>
+run_all_manifest.py - prepare outputs for upload to Google Earth Engine<br>
 
 
 A full description of the effort can be found at:
