@@ -1,0 +1,6 @@
+ACORN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5.05,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mode,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+!Version,Mode,Input Radiance Image,"BIP=0, BIL=1","0=little endian, 1=big endian",Bands,Samples,Lines,Offset,"Latitude (deg, min, sec)  (+N,-S)",,,"Longitude (+E, -W) (deg, min, sec)",,,"Date (day, month, year)",,,"Average Time (UTC) (hr, min, sec)",,,Mean Elev (m),Mean flight alt (km),"Model (1=summer, 2=winter, 3=tropic)","Derive Water Vapor? (0=no,1=940,2=1140,3=both,4=820)","Path radiance in water vpr fit? (0=no,1=yes)",Visibility (5 to 250 km),"Estimate visibility? (0=no,1=yes)",SRF_YN,FWHM or SRF File,"Artifact 1 (0=no,1=yes)","Artifact 2 (0=no,1=yes)","Artifact 3 (0=no,1=yes)",Gain File,Offset File,Output Reflectance Image Filename
+5.05,1.5,/absolute/basenapth_rad_int,1,0,214,598,2410,0,5,6,33,117,1,20,17,04,2016,2,50,17,  399,3.56300,1,3,1,50,0,0,/absolute/base_path/support/neon_426_bands_wv_fwhm.txt,1,1.1,1,/abs_base_path/neon_426_gains.txt,/abs_base_path/neon_offset_426.txt,/output_base_path/output_refl

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/acorn_atmospheric_correction.iml" filepath="$PROJECT_DIR$/.idea/acorn_atmospheric_correction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../conifer_modeling/.idea/conifer_modeling.iml" filepath="$PROJECT_DIR$/../conifer_modeling/.idea/conifer_modeling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../east_river_trait_modeling/.idea/east_river_trait_modeling.iml" filepath="$PROJECT_DIR$/../east_river_trait_modeling/.idea/east_river_trait_modeling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shade-ray-trace/.idea/shade-ray-trace.iml" filepath="$PROJECT_DIR$/../shade-ray-trace/.idea/shade-ray-trace.iml" />
+    </modules>
+  </component>
+</project>
